@@ -1,0 +1,2 @@
+# KBC
+It is a simple game called Kaun Banega Codepati,which is adopted from the Kaun Banega Crorepati reality show. It is like the written version of original KBC. It has got 3 simple questions with four options for each. You will get a lifeline called 50-50 by which two wrong  options will be removed,which derived the original KBC show. At the last you will be  given an option to play again if you successfully complete the game. If you gave one wrong answer you will be kicked out the game.
